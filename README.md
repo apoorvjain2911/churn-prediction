@@ -2,6 +2,9 @@
 
 A production-ready full stack AI application for customer churn prediction, retention analytics, and prediction history tracking.
 
+Live Demo
+
+Frontend: https://churn-prediction-roan.vercel.app     
 ## Project Overview
 
 This project combines a React 19 + Vite frontend with a FastAPI backend to deliver a polished SaaS-style churn dashboard. Users can upload customer CSV files, train a Random Forest churn model, generate risk predictions, inspect feature importance, and review stored prediction history.
