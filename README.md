@@ -38,7 +38,7 @@ A sample dataset is included, allowing users to explore the platform immediately
 * Vite
 * Tailwind CSS
 * Axios
-* Recharts
+
 
 **Backend**
 
