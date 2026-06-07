@@ -88,6 +88,7 @@ npm run dev
 ```env
 DATABASE_URL=sqlite:///./app.db
 FRONTEND_URL=http://localhost:5173
+CORS_ORIGINS=http://localhost:5173
 
 ```
 
