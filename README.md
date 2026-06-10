@@ -12,7 +12,7 @@ A full-stack machine learning application that predicts customer churn, identifi
 
 This project combines **React, FastAPI, and Machine Learning** to help businesses analyze customer churn risk. Users can upload customer datasets, train a churn prediction model, generate predictions, and visualize insights through an interactive dashboard.
 
-A sample dataset is included, allowing users to explore the platform immediately without uploading their own data.
+A sample dataset is included, allowing users to explore the platform immediately without uploading their own data
 
 ---
 
